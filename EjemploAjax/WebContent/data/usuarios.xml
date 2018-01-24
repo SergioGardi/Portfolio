@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<usuarios>
+	<usuario>
+		<id>1</id>
+		<nombre> Sergio </nombre>
+		<email> sgd@gmail.com</email>
+	</usuario>
+	
+	<usuario>
+		<id>2</id>
+		<nombre> Norma </nombre>
+		<email> nrm@gmail.com</email>
+	</usuario>
+	
+	<usuario>
+		<id>3</id>
+		<nombre> Kako </nombre>
+		<email> kako@gmail.com</email>
+	</usuario>
+	
+</usuarios>

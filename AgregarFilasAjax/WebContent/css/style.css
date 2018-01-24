@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+ theader
+{
+	background-color:red;
+}
+
+ tbody
+{
+	background-color:blue;
+}
+ h1
+{
+	color:red;
+}
+th
+{
+color:white;
+}

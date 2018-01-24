@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+h1{
+	color: red;
+}
+form {
+  
+    padding: 1em;
+    border: 1px solid #E0E0E0;
+    font-size: 1em;
+    font-family: monospace;
+    line-height: 1;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+    background: #F5F5F5;
+}
+label {
+    display: inline-block;
+    text-align: left;
+    width: 12em;
+    vertical-align: bottom;
+    border-bottom: 1px dashed #CDCDCD;
+}
+input {
+    display: inline-block;
+    width: 12em;
+}
+.subm-rest input {
+    width: 10em;
+    margin: 1em;
+}

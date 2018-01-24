@@ -1,0 +1,34 @@
+{
+	"superheroes": [
+		{
+			"nombre": "Batman",
+			"superpoder": "Dinero",
+			"color_traje": "Negro",
+			"origen": "Humano"
+		},
+		{
+			"nombre": "Superman",
+			"superpoder": "Poderoso",
+			"color_traje": "Azul",
+			"origen": "Krypton"
+		},
+		{
+			"nombre": "Ironman",
+			"superpoder": "Traje",
+			"color_traje": "Rojo",
+			"origen": "Humano"
+		},
+		{
+			"nombre": "Hulk",
+			"superpoder": "Fuerza",
+			"color_traje": "Morado",
+			"origen": "Humano"
+		},
+		{
+			"nombre": "Wolverine",
+			"superpoder": "Recuperacion",
+			"color_traje": "Amarillo",
+			"origen": "Mutante"
+		}
+	]
+}

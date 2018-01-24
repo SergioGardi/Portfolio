@@ -1,0 +1,24 @@
+{
+	"pelicula": [
+		{
+			"nombre": "Distrito 9",
+			"genero": "Ciencia Ficcion",
+			"clasificacion": "B"
+		},
+		{
+			"nombre": "Interestelar",
+			"genero": "Ciencia Ficcion",
+			"clasificacion": "A"
+		},
+		{
+			"nombre": "Kingdom of Heaven",
+			"genero": "Epica",
+			"clasificacion": "B15"
+		},
+		{
+			"nombre": "Heroe",
+			"genero": "Artes Marciales",
+			"clasificacion": "B15"
+		}
+	]
+}
